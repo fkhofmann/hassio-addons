@@ -38,7 +38,7 @@
   },
   "slug": "papermerge",
   "upstream": "2.0.1",
-  "url": "https://efradaphi.de/gitea/frank/hassio-addons",
+  "url": "https://github.com/fkhofmann/hassio-addons/tree/papermerge",
   "version": "2.0.1-19",
   "webui": "http://[HOST]:[PORT:8000]"
 }
